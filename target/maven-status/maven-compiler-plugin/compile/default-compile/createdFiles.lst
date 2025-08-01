@@ -1,0 +1,5 @@
+com/test/macos/MacosApplication.class
+com/test/macos/testController.class
+com/test/macos/ApiService.class
+com/test/macos/ServletInitializer.class
+com/test/macos/Test.class
