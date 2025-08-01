@@ -13,7 +13,7 @@ import java.util.List;
 
 
 @RestController
-@CrossOrigin("http://127.0.0.1:5500/") // you need to chege about that in the production
+@CrossOrigin("http://16.170.246.104/") // you need to chege about that in the production
 public class testController {
 
     /*
